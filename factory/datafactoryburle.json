@@ -1,0 +1,15 @@
+{
+	"name": "datafactoryburle",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d41ff978-2a5c-4237-b4e6-acc945e887a3",
+		"tenantId": "4281afc1-6d3b-42b5-9efc-7712b4fee9c6"
+	}
+}
